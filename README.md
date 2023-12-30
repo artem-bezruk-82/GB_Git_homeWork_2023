@@ -5,7 +5,7 @@ This is the third string
 This is the fourth string
 This is the fifth string
 This is the sixth string
-This is the 7-th string
+This is the seventh string
 This is the seighth string 
 This is the 9-th string 
 This is the tenth string
